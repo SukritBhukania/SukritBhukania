@@ -1,6 +1,6 @@
 # 🧭 About Me  
 
-📚 **Data Analyst** | Graduate of the **Indian Statistical Institute**   
+📚 **Data Analyst** | Applied Statistics @ **Indian Statistical Institute**   
 
 💡 **Data Analyst & Development Enthusiast** | **Building CrunchNinja**
 
