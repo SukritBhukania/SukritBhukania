@@ -25,7 +25,7 @@
 - **Analytics & Visualization**:  
   `Excel`, `Metabase`, `Tableau`, `Mixpanel`, `PowerBI`  
 - **Web Development**:  
-  `Django`, `Markdown`  
+  `Django`, `Markdown`, `Flask` 
 - **DevOps & Version Control**:  
   `Docker`, `Git`, `GitHub`  
 
