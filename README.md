@@ -11,7 +11,6 @@
 - **Statistics**: Unlocking patterns in data  
 - **Machine Learning**: Building intelligent systems and setting up automations
 - **Data Architecture**: Designing scalable data solutions  
-- **Growth**: Learning from successful strategies and developing growth plans  
 
 ---
 
