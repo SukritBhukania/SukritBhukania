@@ -1,6 +1,6 @@
 # 🧭 About Me  
 
-📚 **Data Analyst** | Applied Statistics @ **Indian Statistical Institute**   
+📚 **Making Data Work Smarter @ Borderless Access** | Applied Statistics @ **Indian Statistical Institute**   
 
 💡 **Data Analyst & Development Enthusiast** | **Building CrunchNinja**
 
@@ -18,7 +18,7 @@
 
 ### **Languages & Tools**  
 - **Programming & Data**:  
-  `Python`, `R-Studio`, `Jupyter Notebook`  
+  `Python`, `R-Studio`, `Jupyter Notebook` 
 - **Databases**:  
   `MySQL`, `PostgreSQL`, `Snowflake`  
 - **Analytics & Visualization**:  
