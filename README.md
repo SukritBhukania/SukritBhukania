@@ -1,12 +1,9 @@
 # 🧭 About Me  
 
-📚 **Making Data Work Smarter @ Borderless Access** | Applied Statistics @ **Indian Statistical Institute**   
-
-💡 **Data Analyst & Development Enthusiast** | **Building CrunchNinja**
-
+**Making Data Work Smarter @ Borderless Access** | **Data Analyst & Development Enthusiast** 
 ---
 
-## 📚 Currently Studying  
+## Currently Learning  
 
 - **Statistics**: Unlocking patterns in data  
 - **Machine Learning**: Building intelligent systems and setting up automations
@@ -14,15 +11,15 @@
 
 ---
 
-## 🛠️ My Tech Stack  
+## My Tech Stack  
 
 ### **Languages & Tools**  
 - **Programming & Data**:  
-  `Python`, `R-Studio`, `Jupyter Notebook` 
+  `Python`, `R-Studio`
 - **Databases**:  
-  `MySQL`, `PostgreSQL`, `Snowflake`  
+  `MySQL`, `PostgreSQL`, `SSMS`  
 - **Analytics & Visualization**:  
-  `Excel`, `Metabase`, `Tableau`, `Mixpanel`, `PowerBI`  
+  `Excel`, `Metabase`, `Tableau`, `Mixpanel`, `PowerBI`, `Clevertap`  
 - **Web Development**:  
   `Django`, `Markdown`, `Flask` 
 - **DevOps & Version Control**:  
@@ -30,7 +27,7 @@
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 
 - **LinkedIn**: [Sukrit Bhukania](https://www.linkedin.com/in/sukritbhukania-dataanalyst/)  
 - **Email**: [sbhukania14@gmail.com](mailto:sbhukania14@gmail.com)  
