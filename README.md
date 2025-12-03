@@ -1,4 +1,4 @@
-# 🧭 About Me  
+# About Me  
 
 **Making Data Work Smarter @ Borderless Access** | **Data Analyst & Development Enthusiast** 
 ---
